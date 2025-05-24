@@ -1,0 +1,9 @@
+Flask
+SpeechRecognition
+gTTS
+requests
+gunicorn
+python-dotenv
+flask-cors
+pydub
+google-generativeai
