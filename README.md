@@ -1,2 +1,2 @@
 # AudioSummaryAPI
-This Repository is all about Audio Summary API.
+This Repository is all about Audio Chat API for Chatting with reports.
